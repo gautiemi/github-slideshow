@@ -8,6 +8,7 @@ highlighter: rouge
 markdown:    kramdown
 lsi:         false
 permalink:   "/:title"
+#blahblahblah
 
 kramdown:
   ## for german: "sbquo,lsquo,bdquo,ldquo"
